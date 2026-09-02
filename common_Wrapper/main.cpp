@@ -294,7 +294,6 @@ void assignment2Menu()
 
 // ============================================================
 // Assignment 03 menu
-// SOLO ONLY - MST
 // ============================================================
 void assignment3Menu()
 {
@@ -345,10 +344,6 @@ void assignment3Menu()
 
 // ============================================================
 // Assignment 04 menu
-// INDIVIDUAL 
-//
-// 1. Greedy Vertex Coloring
-// 2. PageRank
 // ============================================================
 void assignment4Menu()
 {
