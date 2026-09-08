@@ -36,7 +36,7 @@ Start the wrapper:
 Select these menu options:
 
 ```text
-4. Assignment 04 (Individual)
+4. Assignment 04
 1. Vertex Coloring
 2. PageRank
 ```
